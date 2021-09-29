@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hussein1S my name is Hussein
-- 👀 I’m interested in Websites 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Apps and websites
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me @hsun_14 my username on Instagram
+- 📫 How to reach me @hsun_14 my username on Instagram and Telegram
 
 <!---
 Hussein1S/Hussein1S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
