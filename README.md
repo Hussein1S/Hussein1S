@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hussein1S my name is Hussein
-- 👀 I’m interested in Apps and websites
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me @hsun_14 my username on Instagram and Telegram
 
 <!---
